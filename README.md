@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.linkedin.com/in/ali-molajani/">
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
                                                                                               </a>
